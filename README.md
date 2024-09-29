@@ -9,7 +9,7 @@
 - ) (Close Parenthesis)
 # Links
 [Georgebrown] [https://www.georgebrown.ca/].
-[CTBC Bank] [https://investorsedge.cibc.com]
+[CIBC Bank] [https://investorsedge.cibc.com]
 # Experiments
 :smile:
 :innocent:
